@@ -1,0 +1,18 @@
+{
+    "layout": {
+        "hspace": "0.4mm",
+        "vspace": "0.4mm",
+        "rows": "3",
+        "cols": "8"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "12.5mm",
+        "hwidth": "36.25mm"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "offset": "-0.2mm",
+        "layer": "F.SilkS"
+    }
+}
